@@ -2,7 +2,8 @@ class BashSnippets < Formula
   desc "Collection of small bash scripts for heavy terminal users"
   homepage "https://github.com/alexanderepstein/Bash-Snippets"
   url "https://github.com/alexanderepstein/Bash-Snippets/archive/v1.18.0.tar.gz"
-  sha256 "19314a4dc165d4cd13e56acbd8abaf4d447ba8f1ac58f8b7b54c985458135e77"
+  sha256 "61602551a999448e9142489ad62d1e5da72a3b1354e010f1ee7135e4524d2eae"
+
 
   option "without-crypt", "Don't install crypt"
   option "without-cheat", "Don't install cheat"
